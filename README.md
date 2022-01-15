@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @JaxoDevOfficial
 - 👀 I’m interested in P Y T H O N
 - 💞️ I’m looking to collaborate on anything that involves heavy python code.
-- 📫 How to reach me: use my email jaxodev@gmail.com
+- 📫 How to reach me: use my email jaxo@jaxo.dev
